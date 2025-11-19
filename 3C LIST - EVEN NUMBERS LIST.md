@@ -18,8 +18,8 @@ To write a Python function that accepts a number **N** and creates a list contai
 ### PROGRAM
 
 ```
-#Reg.No: 212222060025
-#Name: Bharath S
+# Reg.No: 212222060025
+# Name: Bharath S
 
 def createlist(n):
     l=[]
